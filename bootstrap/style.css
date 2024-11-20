@@ -1,0 +1,227 @@
+.banner{
+    background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg ")
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+header {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+
+  main {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+
+  section {
+    width: 30%;
+    padding: 20px;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  p {
+    line-height: 1.5;
+  }
+
+  .like-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .button-24 {
+    background: #FF4742;
+    border: 1px solid #FF4742;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+  }
+  
+  .button-24:hover,
+  .button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #FF4742;
+  }
+  
+  .button-24:active {
+    opacity: .5;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container1 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ebeaea;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;
+    line-height: 1.6;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+.team-section {
+  padding: 50px 0;
+}
+.team-section h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+.team-section p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 50px;
+}
+.team-member {
+  display: inline-block;
+  margin: 0 20px;
+  text-align: center;
+}
+.team-member img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: 5px solid #ddd;
+}
+.team-member h3 {
+  font-size: 24px;
+  margin: 10px 0 5px;
+}
+.team-member p {
+  font-size: 16px;
+  color: #888;
+  margin: 0 0 10px;
+}
+.social-icons {
+  margin-top: 10px;
+}
+.social-icons a {
+  color: #333;
+  font-size: 20px;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center;
+  background-size: cover;
+  padding-bottom: 50%;
+  padding-top: 50%;
+  color: #ffff
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.header h1 {
+  font-size: 48px;
+  margin: 0;
+}
+.header p {
+  font-size: 18px;
+  color: #6c757d;
+}
+.container1 {
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  width: 30%;
+  box-sizing: border-box;
+}
+.card img {
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-body {
+  padding: 15px;
+}
+.card-title {
+  font-size: 1.25em;
+  margin-bottom: 10px;
+}
+.card-text {
+  color:#6c757d;
+}
+
+.icon-wrapper{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  padding: 15px;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+.icon-wrapper.programing {
+  background-color: #333;
+}
+
+.icon-wrapper.Networking {
+  background-color: #333;
+}
